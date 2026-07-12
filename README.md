@@ -14,7 +14,7 @@ By lowering the barrier to entry, the app makes it easier to start tracking righ
 ## Tech Stack
 This app is built with:
 - **Flutter** → cross-platform mobile framework  
-- **Provider** → state management  
+- **Riverpod** → state management  
 - **Drift (SQLite wrapper)** → offline local database with reactive queries  
 - **Dart** → core programming language  
 - **Material Design** → clean and intuitive UI  
